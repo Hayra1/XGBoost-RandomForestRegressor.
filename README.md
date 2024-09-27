@@ -1,5 +1,3 @@
----
-# Project Title: Melbourne Housing Market Analysis
 
 ## Description
 
